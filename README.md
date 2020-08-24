@@ -16,7 +16,7 @@
                    (100, 3)
 
 ## Aim
-                    The aim of this project was to implement all the machinery, including gradient descent, cost function, and logistic regression, of the various learning       algorithms without module like sklearn, to get a deeper understanding of the fundamentals.
+                    The aim of this project was to implement all the machinery, including gradient descent, cost function, and logistic regression, of the various learning algorithms without module like sklearn, to get a deeper understanding of the fundamentals.
 
 ## Tasks:
 
