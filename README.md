@@ -21,20 +21,13 @@
 ## Tasks:
 
                     Defining Logistic Sigmoid Function
-
                     Computing Cost Function and Gradient
-
                     Cost and Gradient at Initialization
-
                     Gradient Descent
-
                     Plotting the Convergence of Cost Function
-
                     Plotting the decision boundary
-
                     Predictions
 
 ## For Data Visualization, I used:
-
                     scatterplot
                     lineplot
